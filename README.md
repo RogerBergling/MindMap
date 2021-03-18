@@ -1,4 +1,4 @@
-# MinMap
+# MindMap in pentest or ctf with vym
 Here is an exempel file for MinMap when doing CTFs or Pentests
 Application vym can be found in your repo or from here: https://www.insilmaril.de/vym/
 More information here:
